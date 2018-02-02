@@ -7,8 +7,4 @@ RN+H5
 比如：
 1.
 
-Simulator Screen Shot - iPhone 8 Plus - 2018-02-03 at 00.44.37.png
-Simulator Screen Shot - iPhone 8 Plus - 2018-02-03 at 00.44.03.png
-Simulator Screen Shot - iPhone 8 Plus - 2018-02-03 at 00.44.15.png
-Simulator Screen Shot - iPhone 8 Plus - 2018-02-03 at 00.44.29.png
 
